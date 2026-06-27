@@ -5,7 +5,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables users to
 ## Live Demo
 
 **Frontend:**  
-https://YOUR-VERCEL-URL.vercel.app
+https://enterprise-rag-chatbot-frontend-kbd.vercel.app/
 
 **Backend API:**  
 https://YOUR-HF-SPACE.hf.space
