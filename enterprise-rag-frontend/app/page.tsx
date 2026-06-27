@@ -10,7 +10,7 @@ export default function Home() {
   const [uploadStatus, setUploadStatus] = useState("");
   const [loading, setLoading] = useState(false);
 
-  const API = "http://127.0.0.1:8000";
+  const API = "https://divyanshi80405-rag-chatbot.hf.space";
 
   async function uploadPDF() {
     if (!file) {
